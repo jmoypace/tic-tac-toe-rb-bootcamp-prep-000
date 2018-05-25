@@ -1,4 +1,4 @@
-describe "./bin/tictactoe" do
+describe "./bin/tictactoe.rb" do
   it 'prints "Welcome to Tic Tac Toe!"' do
     allow($stdout).to receive(:puts)
     allow(self).to receive(:play)
