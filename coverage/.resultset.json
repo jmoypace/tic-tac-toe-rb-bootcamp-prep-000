@@ -2,6 +2,8 @@
   "RSpec": {
     "coverage": {
       "/home/jmoypace/tic-tac-toe-rb-bootcamp-prep-000/lib/tic_tac_toe.rb": [
+        1,
+        0,
         null,
         1,
         null,
@@ -104,6 +106,6 @@
         null
       ]
     },
-    "timestamp": 1527217148
+    "timestamp": 1527217204
   }
 }
