@@ -1,6 +1,4 @@
-def output
-puts "Welcome to Tic Tac Toe!"
-end
+
 WIN_COMBINATIONS = [
   [0,1,2], 
   [3,4,5], 
