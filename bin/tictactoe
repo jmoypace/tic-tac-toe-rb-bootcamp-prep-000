@@ -2,7 +2,7 @@
 
 require_relative '../lib/tic_tac_toe.rb'
 def output
-puts "Welcome to Tic Tac Toe!"
+
 end
 output
 board = [" "," "," "," "," "," "," "," "," "]
